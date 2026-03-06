@@ -34,7 +34,7 @@ portfolio
 │   └── images
 │
 ├── projetos
-│   ├── landing-pagr
+│   ├── Landing-page
 │   ├── ProjetoAprenser
 │   ├── ProjetoCSS-flexbox
 │   └── ProjetoModaOra
