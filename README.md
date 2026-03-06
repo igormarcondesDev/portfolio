@@ -63,7 +63,7 @@ Cada projeto foi desenvolvido para praticar conceitos importantes do desenvolvim
 
 O portfólio pode ser visualizado online através do **GitHub Pages**.
 
-📎 Em breve será disponibilizado o link de acesso.
+📎 https://igormarcondesdev.github.io/portfolio/
 
 ---
 
