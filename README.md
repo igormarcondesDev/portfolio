@@ -1,15 +1,28 @@
-👨‍💻 Igor Marcondes
-🌐 Portfólio de Desenvolvimento Web
+# 👨‍💻 Igor Marcondes
+
+## 🌐 Portfólio de Desenvolvimento Web
 
 Bem-vindo ao meu portfólio!
 
-Este repositório reúne projetos desenvolvidos durante meus estudos em Desenvolvimento Web, com foco na criação de interfaces modernas, responsivas e bem estruturadas utilizando HTML, CSS e JavaScript.
+Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, com foco na criação de **interfaces modernas, responsivas e bem estruturadas** utilizando **HTML, CSS e JavaScript**.
 
-O objetivo deste portfólio é demonstrar minha evolução como desenvolvedor, aplicando na prática conceitos fundamentais de desenvolvimento Front-End.
+O objetivo deste portfólio é demonstrar minha evolução como desenvolvedor, aplicando na prática conceitos fundamentais de desenvolvimento **Front-End**.
 
-🚀 Tecnologias Utilizadas
+---
 
-📂 Estrutura do Projeto
+# 🚀 Tecnologias Utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+# 📂 Estrutura do Projeto
+
+```
 portfolio
 │
 ├── assets
@@ -24,67 +37,72 @@ portfolio
 │   └── ProjetoModaOra
 │
 └── index.html
-📌 Projetos Desenvolvidos
+```
 
-Este portfólio reúne projetos práticos desenvolvidos durante meus estudos em Desenvolvimento Front-End, com foco na criação de interfaces modernas, responsivas e bem estruturadas.
+---
 
-Os projetos foram desenvolvidos utilizando principalmente HTML, CSS e JavaScript, aplicando boas práticas de estruturação, estilização e organização de layout.
+# 📌 Projetos Desenvolvidos
 
-Projetos presentes neste portfólio
-🧩 Projeto Aprenser
+Este portfólio reúne projetos práticos desenvolvidos durante meus estudos em **Desenvolvimento Front-End**, com foco na criação de **interfaces modernas, responsivas e bem estruturadas**.
 
-Projeto desenvolvido durante estudos de desenvolvimento web com foco na estruturação de páginas utilizando HTML e estilização com CSS, aplicando conceitos de layout e organização de conteúdo.
+Os projetos foram desenvolvidos utilizando principalmente **HTML, CSS e JavaScript**, aplicando boas práticas de estruturação, estilização e organização de layout.
 
-👗 Projeto ModaOra
+## Projetos presentes neste portfólio
 
-Landing page inspirada em uma marca de moda, com foco em design moderno, organização visual e responsividade para diferentes dispositivos.
+### 🧩 Projeto Aprenser
+Projeto desenvolvido durante estudos de desenvolvimento web com foco na estruturação de páginas utilizando **HTML** e estilização com **CSS**, aplicando conceitos de layout e organização de conteúdo.
 
-📦 Projeto FlexBox
+### 👗 Projeto ModaOra
+Landing page inspirada em uma marca de moda, com foco em **design moderno, organização visual e responsividade** para diferentes dispositivos.
 
-Projeto criado para praticar o uso de Flexbox, explorando alinhamento, posicionamento e distribuição de elementos na construção de layouts responsivos.
+### 📦 Projeto FlexBox
+Projeto criado para praticar o uso de **Flexbox**, explorando alinhamento, posicionamento e distribuição de elementos na construção de **layouts responsivos**.
 
-🚀 Landing Page
+### 🚀 Landing Page
+Projeto de página de apresentação desenvolvido para praticar a criação de **interfaces modernas, seções bem organizadas e design responsivo**, simulando a estrutura de páginas utilizadas por empresas para apresentar serviços ou produtos.
 
-Projeto de página de apresentação desenvolvido para praticar a criação de interfaces modernas, seções bem organizadas e design responsivo, simulando a estrutura de páginas utilizadas por empresas para apresentar serviços ou produtos.
+---
 
-🌐 Demonstração do Projeto
+# 🌐 Demonstração do Projeto
 
-O portfólio pode ser visualizado online através do GitHub Pages.
+O portfólio pode ser visualizado online através do **GitHub Pages**.
 
-🔗
+🔗  
 https://igormarcondesdev.github.io/portfolio/
 
-🎯 Objetivo do Portfólio
+---
 
-Este portfólio foi desenvolvido com o objetivo de apresentar minha evolução como Desenvolvedor Front-End, reunindo projetos práticos que demonstram minhas habilidades na construção de interfaces web.
+# 🎯 Objetivo do Portfólio
+
+Este portfólio foi desenvolvido com o objetivo de apresentar minha evolução como **Desenvolvedor Front-End**, reunindo projetos práticos que demonstram minhas habilidades na construção de interfaces web.
 
 Os principais objetivos são:
 
-📚 Consolidar conhecimentos em HTML, CSS e JavaScript
+- 📚 Consolidar conhecimentos em **HTML, CSS e JavaScript**
+- 💻 Desenvolver **interfaces modernas e responsivas**
+- 🚀 Demonstrar minha **evolução técnica através de projetos práticos**
+- 👨‍💻 Servir como **apresentação profissional para recrutadores e oportunidades na área de tecnologia**
 
-💻 Desenvolver interfaces modernas e responsivas
+---
 
-🚀 Demonstrar minha evolução técnica através de projetos práticos
-
-👨‍💻 Servir como apresentação profissional para recrutadores e oportunidades na área de tecnologia
-
-📈 Evolução
+# 📈 Evolução
 
 Este repositório será atualizado constantemente com:
 
-novos projetos
+- novos projetos
+- melhorias de código
+- melhorias de layout
+- novas tecnologias
 
-melhorias de código
+---
 
-melhorias de layout
+# 👨‍💻 Autor
 
-novas tecnologias
+**Igor Marcondes**
 
-👨‍💻 Autor
-
-Igor Marcondes
-
-🔗 GitHub
+🔗 GitHub  
 https://github.com/igormarcondesDev
 
-⭐ Se este projeto foi útil ou interessante, considere deixar uma estrela no repositório.
+---
+
+⭐ Se este projeto foi útil ou interessante, considere deixar uma **estrela no repositório**.
