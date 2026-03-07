@@ -149,13 +149,10 @@ h1 {
     position: relative;
     min-height: 260px;
     background: #0b1020;
-    /* cor fixa (igual em todos) */
     border-radius: 16px;
     overflow: hidden;
     border: 1px solid var(--vidro);
     transition: 0.4s;
-    backdrop-filter: none;
-    /* remove o efeito que causava diferença */
     display: flex;
 }
 
@@ -178,7 +175,7 @@ h1 {
 
 .projeto-img {
     width: 100%;
-    height: 150px;
+    height: 160px;
     object-fit: cover;
     object-position: center;
     display: block;
