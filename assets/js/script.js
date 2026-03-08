@@ -30,7 +30,11 @@ btnVerMais.addEventListener("click", () => {
         card.classList.toggle("hidden");
     });
 
-    btnVerMais.textContent = aberto ? "Ver menos" : "Ver mais";
+    if (aberto) {
+        btnVerMais.textContent = "Ver menos";
+    } else {
+        btnVerMais.textContent = "Ver mais";
+    }
 
 });
 
