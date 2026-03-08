@@ -147,13 +147,15 @@ h1 {
 
 .projetos-card {
     position: relative;
-    min-height: auto;
+    min-height: 180px;
     background: #0b1020;
     border-radius: 16px;
     overflow: hidden;
     border: 1px solid var(--vidro);
     transition: 0.4s;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .projetos-card:hover {
