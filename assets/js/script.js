@@ -49,3 +49,14 @@ linksMenu.forEach(link => {
         });
     });
 });
+
+const btn = document.getElementById("verMaisBtn");
+const hiddenCards = document.querySelectorAll(".projetos-card.hidden");
+
+btn.addEventListener("click", () => {
+  hiddenCards.forEach(card => {
+    card.classList.remove("hidden");
+  });
+
+  btn.style.display = "none";
+});
