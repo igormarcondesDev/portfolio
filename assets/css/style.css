@@ -153,6 +153,7 @@ h1 {
     overflow: hidden;
     border: 1px solid var(--vidro);
     transition: 0.4s;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -186,6 +187,7 @@ h1 {
     flex: 1;
     padding: 16px;
     background: #0b1020;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -211,18 +213,22 @@ h1 {
     font-size: 0.85rem;
 }
 
-.projetos-card.hidden {
+/* ================= ESCONDER PROJETOS ================= */
+
+.hidden {
     display: none;
-    align-items: center;
-    justify-content: center;
 }
+
+/* ================= CARD EM BREVE ================= */
 
 .projetos-card .em-breve {
     position: absolute;
     top: 50%;
     left: 50%;
     width: 150%;
+
     transform: translate(-50%, -50%) rotate(-35deg);
+
     background: var(--secundaria);
     color: #fff;
     text-align: center;
@@ -230,6 +236,7 @@ h1 {
     letter-spacing: 2px;
     padding: 10px 0;
     font-size: 0.95rem;
+
     pointer-events: none;
 }
 

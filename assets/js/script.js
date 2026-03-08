@@ -1,31 +1,36 @@
 // ================= WHATSAPP =================
-const formulario = document.getElementById("formulario");
+const formulario = document.getElementById('formulario');
 
-formulario.addEventListener("submit", function (event) {
+formulario.addEventListener('submit', function (event) {
     event.preventDefault();
 
-    const nome = document.getElementById("nome").value;
-    const mensagem = document.getElementById("mensagem").value;
-    const telefone = "5531971282636";
+    const nome = document.getElementById('nome').value;
+    const mensagem = document.getElementById('mensagem').value;
+    const telefone = '5531971282636';
 
     const texto = `Olá, meu nome é ${nome}. ${mensagem}`;
     const msgFormatada = encodeURIComponent(texto);
 
     const url = `https://wa.me/${telefone}?text=${msgFormatada}`;
-    window.open(url, "_blank");
+    window.open(url, '_blank');
 });
 
 
-// ================= VER MAIS =================
+// ================= VER MAIS / VER MENOS =================
 const btnVerMais = document.getElementById("btnVerMais");
+const cardsHidden = document.querySelectorAll(".projetos-card.hidden");
+
+let aberto = false;
 
 btnVerMais.addEventListener("click", () => {
 
-    document.querySelectorAll(".projetos-card.hidden").forEach(card => {
-        card.classList.remove("hidden");
+    aberto = !aberto;
+
+    cardsHidden.forEach(card => {
+        card.classList.toggle("hidden");
     });
 
-    // O botão continua visível (não desaparece)
+    btnVerMais.textContent = aberto ? "Ver menos" : "Ver mais";
 
 });
 
@@ -34,7 +39,9 @@ btnVerMais.addEventListener("click", () => {
 const linksMenu = document.querySelectorAll(".menu-link");
 
 linksMenu.forEach(link => {
+
     link.addEventListener("click", function(e) {
+
         e.preventDefault();
 
         const id = this.getAttribute("href");
@@ -46,5 +53,7 @@ linksMenu.forEach(link => {
             top: secao.offsetTop - alturaMenu,
             behavior: "smooth"
         });
+
     });
+
 });
