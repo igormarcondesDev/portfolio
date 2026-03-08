@@ -25,7 +25,7 @@ btnVerMais.addEventListener("click", () => {
         card.classList.remove("hidden");
     });
 
-    btnVerMais.style.display = "none";
+    // O botão continua visível (não desaparece)
 
 });
 
