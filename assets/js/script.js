@@ -50,13 +50,13 @@ linksMenu.forEach(link => {
     });
 });
 
-const btn = document.getElementById("verMaisBtn");
+const btn = document.getElementById("btnVerMais");
 const hiddenCards = document.querySelectorAll(".projetos-card.hidden");
 
 btn.addEventListener("click", () => {
-  hiddenCards.forEach(card => {
-    card.classList.remove("hidden");
-  });
+    hiddenCards.forEach(card => {
+        card.classList.remove("hidden");
+    });
 
-  btn.style.display = "none";
+    btn.style.display = "none";
 });
