@@ -2,8 +2,6 @@
 
 ## 🌐 Portfólio de Desenvolvimento Web
 
-# 👨‍💻 Igor Marcondes
-
 Desenvolvedor Front-End em formação, focado na criação de interfaces modernas, responsivas e bem estruturadas utilizando **HTML, CSS e JavaScript**.
 
 Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, demonstrando minha evolução prática na construção de interfaces e layouts responsivos.
