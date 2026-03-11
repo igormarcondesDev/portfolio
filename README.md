@@ -2,9 +2,11 @@
 
 ## 🌐 Portfólio de Desenvolvimento Web
 
-Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, com foco na criação de **interfaces modernas, responsivas e bem estruturadas** utilizando **HTML, CSS e JavaScript**.
+# 👨‍💻 Igor Marcondes
 
-O objetivo deste portfólio é demonstrar minha evolução como desenvolvedor, aplicando na prática conceitos fundamentais de desenvolvimento **Front-End**.
+Desenvolvedor Front-End em formação, focado na criação de interfaces modernas, responsivas e bem estruturadas utilizando **HTML, CSS e JavaScript**.
+
+Este repositório reúne projetos desenvolvidos durante meus estudos em **Desenvolvimento Web**, demonstrando minha evolução prática na construção de interfaces e layouts responsivos.
 
 ---
 
